@@ -1,0 +1,585 @@
+body {
+    color: rgb(8, 8, 33);
+    background: rgb(8, 8, 33);
+    font-family: "Noto Serif JP", serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: 32px;
+    color: rgb(13, 0, 255);
+}
+
+.chamada {
+    background: rgb(103, 158, 229);
+    padding: 15px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 3%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.chamada p {
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+}
+
+.categoria h2 {
+    color: whitesmoke;
+    margin-bottom: 20;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.categoria-videos2 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos2 img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos2 img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+}
+
+.categoria2 h3 {
+    color: whitesmoke;
+    margin-bottom: 20;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.titulo h4 {
+    font-size: 25px;
+    color: whitesmoke;
+    padding-top: 5%;
+}
+
+.categoria-videos3 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos3 img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos3 img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+}
+
+.categoria3 h5 {
+    color: whitesmoke;
+    margin-bottom: 20;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.categoria-videos4 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos4 img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos4 img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+}
+
+.categoria4 h6 {
+    color: whitesmoke;
+    margin-bottom: 20;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.categoria-videos5 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria5 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos5 img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos5 img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.categoria5 p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.titulo2 p {
+    font-size: 25px;
+    color: whitesmoke;
+    padding-top: 5%;
+}
+
+.ateez-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.ateez {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.ateez-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.ateez-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.ateez p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.bonedo-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.bonedo {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.bonedo-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.bonedo-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.bonedo p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
+.enhypen-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.enhypen {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.enhypen-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.enhypen-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.enhypen p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.itzy-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.itzy {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.itzy-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.itzy-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.itzy p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.n27-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.n27 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.n27-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.n27-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.n27 p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.dream-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.dream {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.dream-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.dream-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.dream p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.p1-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.p1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.p1-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.p1-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.p1 p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.seventeen-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.seventeen {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.seventeen-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.seventeen-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.seventeen p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.skz-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.skz {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.skz-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.skz-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.skz p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.the-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.the {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.the-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.the-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.the p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.bambam-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.bambam {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.bambam-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.bambam-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.bambam p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.xdinary-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.xdinary {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.xdinary-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.xdinary-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.xdinary p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+.zb1-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.zb1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.zb1-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.zb1-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.zb1 p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
