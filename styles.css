@@ -193,11 +193,42 @@ h1 {
     padding-top: 5%;
 }
 
+.team-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.team {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.team-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.team-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.team p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
 .ateez-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
+
 
 .ateez {
     padding-left: 20px;
@@ -223,6 +254,38 @@ h1 {
     font-family: "Karla", sans-serif;
 }
 
+
+.bambam-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.bambam {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.bambam-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.bambam-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.bambam p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
 .bonedo-videos {
     display: flex;
     overflow-x: auto;
@@ -247,6 +310,37 @@ h1 {
 }
 
 .bonedo p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
+.bts-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.bts {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.bts-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.bts-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.bts p {
     color: whitesmoke;
     margin-bottom: 20px;
     font-size: 1.5em;
@@ -284,6 +378,7 @@ h1 {
     font-family: "Karla", sans-serif;
 }
 
+
 .itzy-videos {
     display: flex;
     overflow-x: auto;
@@ -313,6 +408,7 @@ h1 {
     font-size: 1.5em;
     font-family: "Karla", sans-serif;
 }
+
 
 .n27-videos {
     display: flex;
@@ -344,6 +440,38 @@ h1 {
     font-family: "Karla", sans-serif;
 }
 
+
+.dojaejung-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.dojaejung {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.dojaejung-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.dojaejung-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.dojaejung p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
 .dream-videos {
     display: flex;
     overflow-x: auto;
@@ -373,6 +501,69 @@ h1 {
     font-size: 1.5em;
     font-family: "Karla", sans-serif;
 }
+
+
+.u-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.u {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.u-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.u-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.u p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
+.wish-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.wish {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.wish-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.wish-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.wish p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
 
 .p1-videos {
     display: flex;
@@ -404,6 +595,69 @@ h1 {
     font-family: "Karla", sans-serif;
 }
 
+
+.redvelvet-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.redvelvet {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.redvelvet-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.redvelvet-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.redvelvet p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
+.riize-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.riize {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.riize-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.riize-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.riize p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
 .seventeen-videos {
     display: flex;
     overflow-x: auto;
@@ -433,6 +687,7 @@ h1 {
     font-size: 1.5em;
     font-family: "Karla", sans-serif;
 }
+
 
 .skz-videos {
     display: flex;
@@ -464,6 +719,7 @@ h1 {
     font-family: "Karla", sans-serif;
 }
 
+
 .the-videos {
     display: flex;
     overflow-x: auto;
@@ -494,35 +750,130 @@ h1 {
     font-family: "Karla", sans-serif;
 }
 
-.bambam-videos {
+
+.tws-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-.bambam {
+.tws {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
 
-.bambam-videos img {
+.tws-videos img {
     opacity: 0.5;
     height: 200px;
 }
 
-.bambam-videos img:hover {
+.tws-videos img:hover {
     opacity: 1.0;
     border: 1px solid rgb(25, 255, 25);
     text-rendering: auto;
 }
 
-.bambam p {
+.tws p {
     color: whitesmoke;
     margin-bottom: 20px;
     font-size: 1.5em;
     font-family: "Karla", sans-serif;
 }
+
+
+.txt-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.txt {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.txt-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.txt-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.txt p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
+.wayv-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.wayv {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.wayv-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.wayv-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.wayv p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
+
+.woodz-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.woodz {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.woodz-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.woodz-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(25, 255, 25);
+    text-rendering: auto;
+}
+
+.woodz p {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-family: "Karla", sans-serif;
+}
+
 
 .xdinary-videos {
     display: flex;
@@ -553,6 +904,7 @@ h1 {
     font-size: 1.5em;
     font-family: "Karla", sans-serif;
 }
+
 
 .zb1-videos {
     display: flex;
